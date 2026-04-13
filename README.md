@@ -48,28 +48,32 @@ xUnit, NUnit, Agile Scrum, Code Reviews
 
 ### 🔐 Secure Role-Based User Management API
 
-* Built ASP.NET Core Web API with JWT authentication & role-based authorization
-* Developed scalable CRUD operations using Entity Framework Core
-* Integrated Swagger for API documentation
+* Designed and developed a secure **ASP.NET Core Web API** implementing **JWT-based authentication and role-based access control (RBAC)**
+* Engineered scalable and optimized **CRUD operations using Entity Framework Core**, ensuring efficient data handling
+* Integrated **Swagger (OpenAPI)** for interactive API documentation and seamless developer experience
+* Focused on **secure architecture and clean code practices** for enterprise-level API design
 
 ---
 
 ### 🛒 Full Stack E-Commerce Application
 
-* Developed full-stack application using ASP.NET Core and React.js
-* Implemented REST APIs for users, orders, and inventory management
-* Designed scalable backend with SQL Server
+* Designed and developed a **scalable full-stack e-commerce platform** using **ASP.NET Core and React.js**
+* Implemented robust **RESTful APIs** for user management, order processing, and inventory systems
+* Optimized backend performance using **SQL Server and efficient query handling**
+* Built modular and maintainable architecture to support **real-time data operations and scalability**
 
 ---
 
 ### ⚙️ Microservices-Based Order Management System
 
-* Architected distributed system using ASP.NET Core microservices
-* Implemented event-driven communication using RabbitMQ
-* Used Redis caching, Docker, PostgreSQL, and API Gateway
-* Improved scalability and inter-service communication
+* Architected a **distributed microservices-based system** using **ASP.NET Core**, following domain-driven design principles
+* Implemented **event-driven architecture using RabbitMQ** for reliable asynchronous communication between services
+* Integrated **Redis caching** to improve performance and reduce latency in high-load scenarios
+* Containerized services using **Docker** and implemented API Gateway for centralized routing and scalability
+* Utilized **PostgreSQL** for efficient data persistence across services, ensuring high availability and fault tolerance
 
 ---
+
 
 ## 🎓 Education
 
