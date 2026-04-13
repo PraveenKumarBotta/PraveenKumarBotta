@@ -112,6 +112,18 @@ Kent State University, USA (GPA: 3.8)
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenKumarBotta&show_icons=true)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKumarBotta&layout=compact)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PraveenKumarBotta)
+
+---
+
 ## 📫 Let's Connect
 
 📧 Email: [praveenkumarbotta002@gmail.com]
