@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Praveen Kumar Botta
 
-🚀 **.NET Full Stack Developer | Microservices | Azure Cloud**
+🚀 **.NET Full Stack Software Engineer | Backend & Cloud Specialist (Azure, Microservices)**
 
 I’m a software developer with 3+ years of experience building **scalable, secure, and high-performance applications** using **C#, .NET Core, ASP.NET Web API, React.js, and SQL Server**.
 
@@ -116,3 +116,6 @@ Kent State University, USA (GPA: 3.8)
 ---
 
 ⭐ *Open to Software Development, Backend, and Cloud opportunities.*
+
+## 🔑 Keywords
+Software Engineer | Backend Developer | .NET Developer | Full Stack Developer | Cloud Engineer | Azure Developer | Microservices | REST APIs | CI/CD | SQL Server
