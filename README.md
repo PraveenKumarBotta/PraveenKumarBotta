@@ -1,16 +1,110 @@
-## Hi there 👋
+# 👋 Hi, I'm Praveen Kumar Botta
 
-<!--
-**PraveenKumarBotta/PraveenKumarBotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **.NET Full Stack Developer | Microservices | Azure Cloud**
 
-Here are some ideas to get you started:
+I’m a software developer with 3+ years of experience building **scalable, secure, and high-performance applications** using **C#, .NET Core, ASP.NET Web API, React.js, and SQL Server**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on designing **microservices-based systems, REST APIs, and cloud-native applications**, with strong attention to performance, security, and clean architecture.
+
+✔ Improved system performance by 30% using async processing & caching
+✔ Reduced deployment effort by 40% through CI/CD automation
+✔ Built secure applications using OAuth2 & JWT authentication
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Languages & Frontend
+
+C#, JavaScript, SQL, React.js, HTML5, CSS3, Razor Views
+
+### ⚙️ Backend & Frameworks
+
+.NET Core, ASP.NET MVC, ASP.NET Web API
+
+### 🔗 APIs & Architecture
+
+REST APIs, Microservices, Layered Architecture, Swagger (OpenAPI), Postman
+
+### 🗄️ Databases & Security
+
+SQL Server, Entity Framework Core, Stored Procedures, Query Optimization
+OAuth2, JWT Authentication, Role-Based Access Control (RBAC)
+
+### ☁️ Cloud & DevOps
+
+Microsoft Azure (App Services, Storage, Key Vault)
+Azure DevOps, Git, GitHub, CI/CD Pipelines
+
+### 🚀 Performance & Practices
+
+Async/Await, Multithreading, Redis Caching
+Serilog Logging, Application Monitoring
+xUnit, NUnit, Agile Scrum, Code Reviews
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Secure Role-Based User Management API
+
+* Built ASP.NET Core Web API with JWT authentication & role-based authorization
+* Developed scalable CRUD operations using Entity Framework Core
+* Integrated Swagger for API documentation
+
+---
+
+### 🛒 Full Stack E-Commerce Application
+
+* Developed full-stack application using ASP.NET Core and React.js
+* Implemented REST APIs for users, orders, and inventory management
+* Designed scalable backend with SQL Server
+
+---
+
+### ⚙️ Microservices-Based Order Management System
+
+* Architected distributed system using ASP.NET Core microservices
+* Implemented event-driven communication using RabbitMQ
+* Used Redis caching, Docker, PostgreSQL, and API Gateway
+* Improved scalability and inter-service communication
+
+---
+
+## 🎓 Education
+
+🎓 **Master of Science in Computer Science**
+Kent State University, USA (GPA: 3.8)
+
+---
+
+## 📜 Certifications
+
+* Microsoft Certified: Azure Developer Associate (AZ-204)
+* Oracle Database SQL Certified Associate
+* Oracle PL/SQL Developer Certified Professional
+* ASP.NET Core Web API (Udemy)
+* Entity Framework Core (Udemy)
+* C# (Udemy)
+
+---
+
+## 🌟 Core Strengths
+
+✔ Microservices Architecture
+✔ REST API Development
+✔ Azure Cloud Deployment
+✔ Secure Authentication (OAuth2 / JWT)
+✔ SQL Query Optimization
+✔ CI/CD Automation
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: [praveenkumarbotta002@gmail.com]
+💼 LinkedIn: [https://www.linkedin.com/in/praveenkumarbotta/]
+
+---
+
+⭐ *Open to Software Development, Backend, and Cloud opportunities.*
