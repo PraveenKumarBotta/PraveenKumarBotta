@@ -100,6 +100,14 @@ Kent State University, USA (GPA: 3.8)
 
 ---
 
+## 💡 What I Bring
+- Experience building scalable backend systems and APIs  
+- Strong understanding of microservices and distributed systems  
+- Hands-on expertise with Azure cloud and CI/CD pipelines  
+- Focus on performance optimization and secure application design
+
+---
+
 ## 📫 Let's Connect
 
 📧 Email: [praveenkumarbotta002@gmail.com]
