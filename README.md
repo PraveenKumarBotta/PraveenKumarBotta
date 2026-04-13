@@ -119,7 +119,9 @@ Kent State University, USA (GPA: 3.8)
 
 ---
 
-⭐ *Open to Software Development, Backend, and Cloud opportunities.*
-
 ## 🔑 Keywords
 Software Engineer | Backend Developer | .NET Developer | Full Stack Developer | Cloud Engineer | Azure Developer | Microservices | REST APIs | CI/CD | SQL Server
+
+---
+
+⭐ *Open to Software Development, Backend, and Cloud opportunities.*
